@@ -1,12 +1,12 @@
 ---
 layout: lesson
 root: .
-lastupdated: Month Day, Year
-contributors: ["First Last", "First Last", "Pls Add Others"]
-maintainers: ["First Last", "First Last"]
-domain: Domain Name
-topic: Topic
-software:
+lastupdated: November 13, 2016
+contributors: ["Daren Card", "Alexey Shiklomanov"]
+maintainers: ["Daren Card"]
+domain: Genomics
+topic: Python
+software: Python
 dataurl:
 status: Under Development
 ---
