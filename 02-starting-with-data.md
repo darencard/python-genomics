@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: .
-title: Lesson Title
+title: Starting with data
 
 # Here you can add metadata to describe your lesson so that people and search engines can understand what it's about. Please try to use fields from the Schema.org CreativeWork type - https://schema.org/CreativeWork
 
