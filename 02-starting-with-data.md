@@ -21,7 +21,14 @@ dateCreated:    2016-05-01                                      # see: https://s
 
     This is a block of objectives
 
+## Key topics covered in the corresponding R lesson
 
+* Data description
+* Download data from inside R (`download.file`)
+* Read data into memory `read.csv`
+* `data.frame` data type
+* `factors` (probably irrelevant to python)
+* Basic plotting with `plot`
 
 ## Lesson 
 

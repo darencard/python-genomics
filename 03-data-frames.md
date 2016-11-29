@@ -21,6 +21,20 @@ dateCreated:    2016-05-01                                      # see: https://s
 
     This is a block of objectives
 
+## Key topics covered in the corresponding R lesson
+
+* Read data from `csv`
+* Create from scratch
+* Inspecting `data.frame`s:
+    - Dimensions -- `dim`, `nrow`, `ncol`
+    - Content -- `head`, `tail`
+    - Names -- `names`, `colnames`, `rownames`
+    - Summaries -- `str`, `summary`
+* "Generic" function concept (briefly)
+* Indexing, sequencing, subsetting
+    - Access by index, or range of indices
+    - `seq` function
+    - Access by column name
 
 
 ## Lesson 
