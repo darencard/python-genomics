@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: .
-title: Lesson Title
+title: Data visualization
 
 # Here you can add metadata to describe your lesson so that people and search engines can understand what it's about. Please try to use fields from the Schema.org CreativeWork type - https://schema.org/CreativeWork
 
@@ -21,6 +21,24 @@ dateCreated:    2016-05-01                                      # see: https://s
 
     This is a block of objectives
 
+## Key topics covered in the corresponding R lesson
+
+* Organizing data for `ggplot` ("tidy" or "long" data)
+* Defining aesthetic mappings
+* Using the `+` operator to add geometry elements
+* Geometries:
+    - `geom_point`
+    - `geom_boxplot`
+    - `geom_jitter`
+    - `geom_violin`
+    - `geom_line`
+* Modifications:
+    - Color and transparency (manually, or by category)
+    - Transformed (e.g. log) axes 
+    - Grouping by category
+    - Faceting (`grid`, `wrap`)
+    - Advanced customization with themes (text size, font, position)
+* Time-series data
 
 
 ## Lesson 
